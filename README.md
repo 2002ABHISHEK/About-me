@@ -2,7 +2,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# 💫About Me :
+###
+
+<h1 align="center">hey there 👋.......</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
 # 🔥 Abhishek — Cyber Security Researcher & Pentester
 
 **M.Tech Cyber Security @ NIT Kurukshetra**  
