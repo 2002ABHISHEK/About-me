@@ -2,8 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## <h1 align="center">hey there 👋.......</h1>
-
+ <h1 align="center">hey there 👋.......</h1>
+---
 
 
 
